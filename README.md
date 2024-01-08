@@ -1,2 +1,2 @@
-# json2media Documentation
-This repository contains json2media api documentation.
+# Json2Media Documentation
+Please visit my Wiki page for Json2Media api documentation.
